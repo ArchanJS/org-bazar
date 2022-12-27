@@ -1,5 +1,5 @@
 # **Org-Bazar**
-## To visit *Org-Bazar* click [here](https://org-bazar.herokuapp.com/)
+## To visit *Org-Bazar* click [here](https://org-bazar.netlify.app/)
 ## To watch demo video click [here](https://youtu.be/qKTN-udyIOU)
 
 <hr/>
